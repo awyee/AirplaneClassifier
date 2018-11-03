@@ -12,3 +12,6 @@ class PicscraperItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
+# class PlanePicItem(scrapy.Item):
+#     images = scrapy.Field()
+#     image_urls = scrapy.Field()
